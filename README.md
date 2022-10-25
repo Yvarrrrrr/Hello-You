@@ -7,6 +7,7 @@ Beginverhaald
   Keusenvraag
   tekt op de keusenvraag
     meer keusens
+    (het mooie is als je niet het bestand opent dan staat het naast elkaar goed voorbeeld dus wat er echt is gebeurt)
     
  Toen ik het had verstuurt ging alles naar links toe en stond alles niet meer overzichterlijk dus ben veel van het bestand gaan uitwijken
  Buiten dat heb ik perongelijk een extra reposetorie gemaakt waar ik hem 1x heb opgeslagen omdat ik hem in 2x heb gemaakt dus ik gooi die weg en stuur hem hier in 1x
